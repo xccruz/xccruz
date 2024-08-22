@@ -1,2 +1,3 @@
 0174. 📚 docs: clarify environment setup
 0470. 🎨 style: remove trailing whitespace
+0315. ✅ test: add integration test for /submit endpoint
