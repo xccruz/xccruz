@@ -5,3 +5,4 @@
 0911. ✅ test: increase coverage on auth module
 0260. ✨ feat: create admin dashboard
 0675. 🔧 refactor: organize models into subfolders
+0693. 📚 docs: add API usage examples
