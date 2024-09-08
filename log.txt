@@ -8,3 +8,4 @@
 0693. 📚 docs: add API usage examples
 0711. 🐛 fix: fix broken CSS in mobile view
 0176. 🔧 refactor: remove redundant code blocks
+0426. ✅ test: add integration test for /submit endpoint
