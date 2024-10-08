@@ -26,3 +26,4 @@
 0158. 📚 docs: clarify environment setup
 0556. ✨ feat: support email verification
 0797. 📚 docs: add API usage examples
+0482. ✨ feat: add export to CSV option
