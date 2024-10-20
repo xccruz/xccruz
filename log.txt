@@ -33,3 +33,4 @@
 0861. ♻️ chore: clean up unused files
 0970. ♻️ chore: update .gitignore
 0236. 🔧 refactor: remove redundant code blocks
+0248. 🐛 fix: handle 500 error in quiz API
