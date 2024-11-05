@@ -40,3 +40,4 @@
 0610. 🚀 perf: lazy-load components
 0495. 🔧 refactor: remove redundant code blocks
 0704. 🚀 perf: cache repeated calculations
+0584. 🚀 perf: lazy-load components
