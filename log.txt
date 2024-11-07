@@ -45,3 +45,4 @@
 0541. 🐛 fix: correct typo in registration form
 0143. ✨ feat: implement quiz timer feature
 0295. 🎨 style: remove trailing whitespace
+0842. 🎨 style: remove trailing whitespace
