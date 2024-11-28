@@ -56,3 +56,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0599. ✅ test: test user registration edge cases
 0390. 🎨 style: standardize quote style
+0802. 🔧 refactor: remove redundant code blocks
