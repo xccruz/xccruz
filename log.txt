@@ -66,3 +66,4 @@
 0930. 🎨 style: apply consistent indentation
 0654. ✨ feat: create admin dashboard
 0647. 🐛 fix: prevent crash on empty input
+0237. 🎨 style: standardize quote style
