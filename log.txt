@@ -72,3 +72,4 @@
 0801. ✨ feat: enable dark mode toggle
 0239. 🎨 style: standardize quote style
 0191. 🔧 refactor: refactor quiz grading logic
+0314. ✨ feat: implement quiz timer feature
