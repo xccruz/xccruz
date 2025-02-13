@@ -83,3 +83,4 @@
 0580. ♻️ chore: bump dependencies
 0986. 📚 docs: document token refresh logic
 0830. 🎨 style: apply consistent indentation
+0064. 📚 docs: clarify environment setup
