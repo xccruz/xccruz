@@ -84,3 +84,4 @@
 0986. 📚 docs: document token refresh logic
 0830. 🎨 style: apply consistent indentation
 0064. 📚 docs: clarify environment setup
+0755. 🚀 perf: cache repeated calculations
