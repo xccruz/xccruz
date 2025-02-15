@@ -85,3 +85,4 @@
 0830. 🎨 style: apply consistent indentation
 0064. 📚 docs: clarify environment setup
 0755. 🚀 perf: cache repeated calculations
+0169. 📚 docs: add API usage examples
