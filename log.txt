@@ -94,3 +94,4 @@
 0803. ✅ test: mock database connection in test suite
 0163. ✨ feat: implement quiz timer feature
 0581. ✅ test: add integration test for /submit endpoint
+0655. 🚀 perf: cache repeated calculations
