@@ -101,3 +101,4 @@
 0987. ✨ feat: create admin dashboard
 0294. 🐛 fix: prevent crash on empty input
 0643. 🎨 style: apply consistent indentation
+0533. ♻️ chore: add GitHub actions badge
