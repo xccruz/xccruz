@@ -116,3 +116,4 @@
 0178. ✨ feat: support email verification
 0804. ♻️ chore: add GitHub actions badge
 0776. ✅ test: add integration test for /submit endpoint
+0138. 🎨 style: rename variables for clarity
