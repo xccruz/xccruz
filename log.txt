@@ -123,3 +123,4 @@
 0974. ✨ feat: add export to CSV option
 0115. 🚀 perf: reduce image load time
 0289. 🐛 fix: resolve issue with date parsing
+0990. ♻️ chore: rename env.example
