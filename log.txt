@@ -143,3 +143,4 @@
 0452. ✨ feat: implement quiz timer feature
 0931. 🚀 perf: reduce image load time
 0972. 🔧 refactor: refactor quiz grading logic
+0403. ✅ test: mock database connection in test suite
