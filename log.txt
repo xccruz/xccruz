@@ -147,3 +147,4 @@
 0702. ✨ feat: add user authentication
 0923. ✨ feat: support email verification
 0171. 🐛 fix: fix broken CSS in mobile view
+0617. ✨ feat: support email verification
