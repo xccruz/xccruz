@@ -149,3 +149,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0617. ✨ feat: support email verification
 0447. ♻️ chore: bump dependencies
+0963. 🚀 perf: reduce image load time
