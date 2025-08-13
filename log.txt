@@ -152,3 +152,4 @@
 0963. 🚀 perf: reduce image load time
 0912. 📚 docs: document token refresh logic
 0464. 🎨 style: remove trailing whitespace
+0514. 🐛 fix: fix broken CSS in mobile view
