@@ -158,3 +158,4 @@
 0449. ✅ test: add unit test for quiz service
 0998. 🐛 fix: fix null pointer exception on login
 0957. 🐛 fix: fix null pointer exception on login
+0386. 🚀 perf: optimize database query for quiz results
