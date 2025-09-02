@@ -159,3 +159,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0957. 🐛 fix: fix null pointer exception on login
 0386. 🚀 perf: optimize database query for quiz results
+0557. 🔧 refactor: clean up auth middleware
