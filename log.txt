@@ -162,3 +162,4 @@
 0557. 🔧 refactor: clean up auth middleware
 0594. 🎨 style: reformat files with black
 0862. ♻️ chore: bump dependencies
+0989. 📚 docs: write FAQ section
