@@ -163,3 +163,4 @@
 0594. 🎨 style: reformat files with black
 0862. ♻️ chore: bump dependencies
 0989. 📚 docs: write FAQ section
+0458. ✨ feat: create admin dashboard
