@@ -164,3 +164,4 @@
 0862. ♻️ chore: bump dependencies
 0989. 📚 docs: write FAQ section
 0458. ✨ feat: create admin dashboard
+0690. 🚀 perf: lazy-load components
