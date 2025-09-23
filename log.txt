@@ -166,3 +166,4 @@
 0458. ✨ feat: create admin dashboard
 0690. 🚀 perf: lazy-load components
 0996. ✅ test: test user registration edge cases
+0028. 🎨 style: standardize quote style
