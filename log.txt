@@ -173,3 +173,4 @@
 0892. ✅ test: add unit test for quiz service
 0211. 🔧 refactor: remove redundant code blocks
 0053. ✅ test: increase coverage on auth module
+0682. ♻️ chore: rename env.example
