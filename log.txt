@@ -174,3 +174,4 @@
 0211. 🔧 refactor: remove redundant code blocks
 0053. ✅ test: increase coverage on auth module
 0682. ♻️ chore: rename env.example
+0813. 🔧 refactor: organize models into subfolders
