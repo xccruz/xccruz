@@ -176,3 +176,4 @@
 0682. ♻️ chore: rename env.example
 0813. 🔧 refactor: organize models into subfolders
 0810. 🔧 refactor: refactor quiz grading logic
+0247. 🎨 style: apply consistent indentation
