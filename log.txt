@@ -186,3 +186,4 @@
 0960. ✅ test: increase coverage on auth module
 0535. 📚 docs: write FAQ section
 0635. 🎨 style: apply consistent indentation
+0920. 🔧 refactor: organize models into subfolders
