@@ -191,3 +191,4 @@
 0848. 📚 docs: update README with setup steps
 0640. ♻️ chore: bump dependencies
 0336. ✨ feat: add export to CSV option
+0900. 🐛 fix: handle 500 error in quiz API
