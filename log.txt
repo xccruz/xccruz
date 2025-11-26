@@ -193,3 +193,4 @@
 0336. ✨ feat: add export to CSV option
 0900. 🐛 fix: handle 500 error in quiz API
 0358. 🚀 perf: reduce image load time
+0196. ♻️ chore: bump dependencies
