@@ -196,3 +196,4 @@
 0196. ♻️ chore: bump dependencies
 0832. 🔧 refactor: remove redundant code blocks
 0111. 📚 docs: update README with setup steps
+0233. 🚀 perf: lazy-load components
